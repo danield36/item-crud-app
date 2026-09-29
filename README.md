@@ -1,22 +1,22 @@
 
 
-![SpringBoot-Angular-Items-CRUD](https://socialify.git.ci/walidbosso/SpringBoot-Angular-Items-CRUD/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![item-crud-app](https://socialify.git.ci/tomasreyes83/item-crud-app/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 
 <p align="center">
-<a href="https://github.com/walidbosso/SpringBoot-Angular-Items-CRUD">
+<a href="https://github.com/tomasreyes83/item-crud-app">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/SpringBoot-Angular-Items-CRUD)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tomasreyes83&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tomasreyes83/item-crud-app)
 
   <p align="center">
-<a href="https://github.com/walidbosso/SpringBoot-Angular-Items-CRUD">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FSpringBoot-Angular-Items-CRUD&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/tomasreyes83/item-crud-app">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftomasreyes83%2Fitem-crud-app&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/walidbosso/SpringBoot-Angular-Items-CRUD">
+<a href="https://github.com/tomasreyes83/item-crud-app">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -24,7 +24,7 @@
 
 <br/>
   
-# SpringBoot-Angular-Items-CRUD
+# item-crud-app
   
   </div>
 
@@ -96,7 +96,7 @@ This project operates under the **MIT License**. Refer to the [LICENSE](LICENSE)
 
 Your feedback and contributions are invaluable! Feel free to open issues, submit pull requests, or connect for discussions.
 
-- Contact me in [LinkedIn](https://www.linkedin.com/in/walidbosso) for questions. 
+- Contact me in [LinkedIn](https://www.linkedin.com/in/tomasreyes83) for questions. 
 
 <br>
 
@@ -115,7 +115,7 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/SpringBoot-Angular-Items-CRUD](http://reporoster.com/stars/dark/walidbosso/SpringBoot-Angular-Items-CRUD)](https://github.com/walidbosso/SpringBoot-Angular-Items-CRUD/stargazers)
+[![Stargazers repo roster for @tomasreyes83/item-crud-app](http://reporoster.com/stars/dark/tomasreyes83/item-crud-app)](https://github.com/tomasreyes83/item-crud-app/stargazers)
 
 
 
@@ -125,14 +125,14 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/SpringBoot-Angular-Items-CRUD](http://reporoster.com/forks/dark/walidbosso/SpringBoot-Angular-Items-CRUD)](https://github.com/walidbosso/SpringBoot-Angular-Items-CRUD/network/members)
+[![Forkers repo roster for @tomasreyes83/item-crud-app](http://reporoster.com/forks/dark/tomasreyes83/item-crud-app)](https://github.com/tomasreyes83/item-crud-app/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/SpringBoot-Angular-Items-CRUD"/>
+<a href = "https://github.com/tomasreyes83">
+  <img src = "https://contrib.rocks/image?repo=tomasreyes83/item-crud-app"/>
 </a>
 
 
@@ -141,14 +141,14 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 <div align="center">
 
 
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/tomasreyes83"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=tomasreyes83&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/SpringBoot-Angular-Items-CRUD?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/tomasreyes83/item-crud-app?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/SpringBoot-Angular-Items-CRUD?style=social)
+![GitHub License](https://img.shields.io/github/license/tomasreyes83/item-crud-app?style=social)
 
 
 
@@ -158,16 +158,16 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/tomasreyes83">
+  <img src = "https://github.com/tomasreyes83/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/tomasreyes83">
+  <img src = "https://github.com/tomasreyes83/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/tomasreyes83">
+  <img src = "https://github.com/tomasreyes83/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
